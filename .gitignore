@@ -1,0 +1,10 @@
+/app/src/main/res/values/twitter4j.xml
+/local.properties
+/.gradle
+/.idea
+/.idea/
+/build
+/proguard_logs
+
+*.apk
+.DS_Store
